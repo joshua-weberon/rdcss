@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Inkfree';
+    font-style: normal;
+    vertical-align: middle;
+    src: url('https://raw.githubusercontent.com/joshua-weberon/fonts-in-weberon/master/all_fonts/Inkfree.ttf');
+  }
+
+.black-adam{
+    background-color: black;
+    color: aqua;
+}
